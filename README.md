@@ -1,7 +1,7 @@
 # Burp_Addons
 Some custom burp extension scripts i thought i'd share. Nothing amazing but sometimes useful.
 
-Mixed Case Iterator
+Mixed Case Iterator ( requires Jython 2.7 )
 -------------------
 This script is a simple intruder payload extention which takes the selected value in intruder and iterates through all possible combinations of case.  This might come in handy if you wanted to check all combinations of a particular word for WAF/custom filtering issues. 
 
